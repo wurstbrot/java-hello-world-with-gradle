@@ -1,4 +1,6 @@
 # Building Java Projects with Gradle
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwurstbrot%2Fjava-hello-world-with-gradle.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwurstbrot%2Fjava-hello-world-with-gradle?ref=badge_shield)
+
 
 ##### This guide walks you through using Gradle to build a simple Java project.
 
@@ -347,3 +349,7 @@ Now if you run `gradle build`, Gradle should resolve the Joda Time dependency fr
   }
   // end::wrapper[]
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwurstbrot%2Fjava-hello-world-with-gradle.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwurstbrot%2Fjava-hello-world-with-gradle?ref=badge_large)
